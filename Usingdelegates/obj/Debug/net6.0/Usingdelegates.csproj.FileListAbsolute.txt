@@ -1,0 +1,15 @@
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.csproj.AssemblyReference.cache
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.AssemblyInfoInputs.cache
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.AssemblyInfo.cs
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.csproj.CoreCompileInputs.cache
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\bin\Debug\net6.0\Usingdelegates.exe
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\bin\Debug\net6.0\Usingdelegates.deps.json
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\bin\Debug\net6.0\Usingdelegates.runtimeconfig.json
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\bin\Debug\net6.0\Usingdelegates.dll
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\bin\Debug\net6.0\Usingdelegates.pdb
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.dll
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\refint\Usingdelegates.dll
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.pdb
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\Usingdelegates.genruntimeconfig.cache
+C:\SkillMeUp\Anuprojects\Calculator\Usingdelegates\obj\Debug\net6.0\ref\Usingdelegates.dll
